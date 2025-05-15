@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 `xderived` is an [xarray](http://xarray.pydata.org/) plugin that allows users to dynamically register, discover, and lazily compute derived scientific variables based on the contents of their xarray Datasets. This functionality is inspired by concepts from VisAD and Unidata's Integrated Data Viewer (IDV), aiming to make common (and custom) derived quantity calculations more accessible and integrated within the xarray ecosystem.
+![derived_data_demo](https://github.com/user-attachments/assets/9ffbf70f-7e17-49e2-8551-cf8257b85416)
 
 ## Features
 
